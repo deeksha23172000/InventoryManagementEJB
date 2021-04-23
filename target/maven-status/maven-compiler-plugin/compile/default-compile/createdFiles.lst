@@ -1,0 +1,6 @@
+com\Deeksha\entity\Inventory.class
+com\Deeksha\store\StoreService.class
+com\Deeksha\inventory\InventoryService.class
+com\Deeksha\entity\Store.class
+com\Deeksha\store\StoreServiceImpl.class
+com\Deeksha\inventory\InventoryServiceImpl.class
